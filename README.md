@@ -34,3 +34,14 @@ Password Generator - [Demo](https://codepen.io/ahmetenesdur/full/XWPmovp)
 ![Password Generator](https://i.imgur.com/It9VZRx.png)
 
 </details>
+
+<details>
+  <summary>Day 4: QR Code Generator</summary>
+
+<br>
+
+QR Code Generator - [Demo](https://codepen.io/ahmetenesdur/full/dyqGNyL)
+
+![QR Code Generator](https://i.imgur.com/fwKfTQD.png)
+
+</details>
