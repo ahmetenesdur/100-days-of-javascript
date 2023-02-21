@@ -45,3 +45,14 @@ QR Code Generator - [Demo](https://codepen.io/ahmetenesdur/full/dyqGNyL)
 ![QR Code Generator](https://i.imgur.com/fwKfTQD.png)
 
 </details>
+
+<details>
+  <summary>Day 5: Battery Detector</summary>
+
+<br>
+
+Battery Detector - [Demo](https://codepen.io/ahmetenesdur/full/GRXZgZW)
+
+![Battery Detector](https://i.imgur.com/IrK4Ll4.png)
+
+</details>
