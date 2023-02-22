@@ -56,3 +56,14 @@ Battery Detector - [Demo](https://codepen.io/ahmetenesdur/full/GRXZgZW)
 ![Battery Detector](https://i.imgur.com/IrK4Ll4.png)
 
 </details>
+
+<details>
+  <summary>Day 6: Tic Tac Toe Game</summary>
+
+<br>
+
+Tic Tac Toe Game - [Demo](https://codepen.io/ahmetenesdur/full/jOvqjLy)
+
+![Tic Tac Toe Game](https://i.imgur.com/XPyqVz0.png)
+
+</details>
