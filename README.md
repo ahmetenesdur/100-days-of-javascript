@@ -67,3 +67,14 @@ Tic Tac Toe Game - [Demo](https://codepen.io/ahmetenesdur/full/jOvqjLy)
 ![Tic Tac Toe Game](https://i.imgur.com/XPyqVz0.png)
 
 </details>
+
+<details>
+  <summary>Day 7: Coin Flip Game</summary>
+
+<br>
+
+Coin Flip Game - [Demo](https://codepen.io/ahmetenesdur/full/VwGjyye)
+
+![Coin Flip Game](https://i.imgur.com/uTB2R3Y.png)
+
+</details>
