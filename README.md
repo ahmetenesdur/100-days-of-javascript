@@ -78,3 +78,14 @@ Coin Flip Game - [Demo](https://codepen.io/ahmetenesdur/full/VwGjyye)
 ![Coin Flip Game](https://i.imgur.com/uTB2R3Y.png)
 
 </details>
+
+<details>
+  <summary>Day 8: Color Guessing Game</summary>
+
+<br>
+
+Color Guessing Game - [Demo](https://codepen.io/ahmetenesdur/full/WNgGQzr)
+
+![Color Guessing Game](https://i.imgur.com/Se7h2pV.png)
+
+</details>
