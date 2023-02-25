@@ -1,0 +1,49 @@
+body {
+  background: #1c1e26;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  width: 100vw;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+.eyes-wrapper {
+  display: flex;
+}
+
+.eye {
+  width: 10em;
+  height: 10em;
+  background-color: #ffffff;
+  border-radius: 50%;
+  position: relative;
+  margin: 0 1em;
+}
+
+.eyeball {
+  height: 3.2em;
+  width: 3.2em;
+  background: radial-gradient(#271e1e 35%, #660279 37%);
+  border-radius: 50%;
+  margin: 0.2em 3.5em;
+  position: relative;
+}
+
+.eyeball:before {
+  content: "";
+  position: absolute;
+  background-color: #ffffff;
+  height: 0.7em;
+  width: 0.5em;
+  border-radius: 50%;
+  top: 13px;
+  left: 13px;
+  transform: rotate(45deg);
+}

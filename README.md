@@ -89,3 +89,14 @@ Color Guessing Game - [Demo](https://codepen.io/ahmetenesdur/full/WNgGQzr)
 ![Color Guessing Game](https://i.imgur.com/Se7h2pV.png)
 
 </details>
+
+<details>
+  <summary>Day 9: Eyes Follow Mouse Cursor</summary>
+
+<br>
+
+Eyes Follow Mouse Cursor - [Demo](https://codepen.io/ahmetenesdur/full/xxaEmOy)
+
+![Eyes Follow Mouse Cursor](https://i.imgur.com/GKEtJOh.gif)
+
+</details>
