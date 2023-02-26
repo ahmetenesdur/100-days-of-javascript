@@ -34,8 +34,8 @@ const showHideKeys = () => {
 };
 
 const pressKey = (e) => {
-  if (allKeys.includes(e.key)) {
-    playTune(e.key); // play the tune when a key is pressed
+  if (allKeys.includes(e.key.toLowerCase())) {
+    playTune(e.key.toLowerCase()); // play the tune when a key is pressed
   }
 };
 
