@@ -1,6 +1,6 @@
-# 100 Days of Javascript Apps
+# 30 Days of Javascript Apps
 
-This is a repository for my 100 Days of Javascript Apps challenge. I will be creating a new app every day for 100 days.
+This is a repository for my 30 Days of Javascript Apps challenge. I will be creating a new app every day for 30 days.
 
 <details>
   <summary>Day 1: Pixel Art Generator</summary>
@@ -109,5 +109,16 @@ Eyes Follow Mouse Cursor - [Demo](https://codepen.io/ahmetenesdur/full/xxaEmOy)
 Playable Piano - [Demo](https://codepen.io/ahmetenesdur/full/NWLbrVG)
 
 ![Playable Piano](https://i.imgur.com/cRbJk0A.gif)
+
+</details>
+
+<details>
+  <summary>Day 11: Memory Card Game</summary>
+
+<br>
+
+Memory Card Game - [Demo](https://codepen.io/ahmetenesdur/full/qBMqLwG)
+
+![Memory Card Game](https://i.imgur.com/CbwXiYf.gif)
 
 </details>
