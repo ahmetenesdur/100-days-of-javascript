@@ -122,3 +122,14 @@ Memory Card Game - [Demo](https://codepen.io/ahmetenesdur/full/qBMqLwG)
 ![Memory Card Game](https://i.imgur.com/CbwXiYf.gif)
 
 </details>
+
+<details>
+  <summary>Day 12 - English Dictionary</summary>
+
+<br>
+
+English Dictionary - [Demo](https://codepen.io/ahmetenesdur/full/QWVdrmK)
+
+![English Dictionary](https://i.imgur.com/8eSHKTY.gif)
+
+</details>
