@@ -124,12 +124,23 @@ Memory Card Game - [Demo](https://codepen.io/ahmetenesdur/full/qBMqLwG)
 </details>
 
 <details>
-  <summary>Day 12 - English Dictionary</summary>
+  <summary>Day 12: English Dictionary</summary>
 
 <br>
 
 English Dictionary - [Demo](https://codepen.io/ahmetenesdur/full/QWVdrmK)
 
 ![English Dictionary](https://i.imgur.com/8eSHKTY.gif)
+
+</details>
+
+<details>
+  <summary>Day 13: Confetti Button</summary>
+
+<br>
+
+Confetti Button - [Demo](https://codepen.io/ahmetenesdur/full/QWVpgJP)
+
+![Confetti Button](https://i.imgur.com/5HMhkKd.gif)
 
 </details>
