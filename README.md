@@ -144,3 +144,14 @@ Confetti Button - [Demo](https://codepen.io/ahmetenesdur/full/QWVpgJP)
 ![Confetti Button](https://i.imgur.com/5HMhkKd.gif)
 
 </details>
+
+<details>
+  <summary>Day 14: Toast Notification</summary>
+
+<br>
+
+Toast Notification - [Demo](https://codepen.io/ahmetenesdur/full/qBMmELY)
+
+![Toast Notification](https://i.imgur.com/r0e732B.gif)
+
+</details>
