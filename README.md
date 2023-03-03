@@ -155,3 +155,14 @@ Toast Notification - [Demo](https://codepen.io/ahmetenesdur/full/qBMmELY)
 ![Toast Notification](https://i.imgur.com/r0e732B.gif)
 
 </details>
+
+<details>
+  <summary>Day 15: Snake Game</summary>
+
+<br>
+
+Snake Game - [Demo](https://codepen.io/ahmetenesdur/full/KKxmxdj)
+
+![Snake Game](https://i.imgur.com/bRrp1DZ.gif)
+
+</details>
