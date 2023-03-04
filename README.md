@@ -166,3 +166,14 @@ Snake Game - [Demo](https://codepen.io/ahmetenesdur/full/KKxmxdj)
 ![Snake Game](https://i.imgur.com/bRrp1DZ.gif)
 
 </details>
+
+<details>
+  <summary>Day 16: Drag and Drop</summary>
+
+<br>
+
+Drag and Drop - [Demo](https://codepen.io/ahmetenesdur/full/OJogbgJ)
+
+![Drag and Drop](https://i.imgur.com/Mdyuv9k.gif)
+
+</details>
