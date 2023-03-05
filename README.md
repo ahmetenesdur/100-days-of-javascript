@@ -177,3 +177,14 @@ Drag and Drop - [Demo](https://codepen.io/ahmetenesdur/full/OJogbgJ)
 ![Drag and Drop](https://i.imgur.com/Mdyuv9k.gif)
 
 </details>
+
+<details>
+  <summary>Day 17: Emoji Maker</summary>
+
+<br>
+
+Emoji Maker - [Demo](https://codepen.io/ahmetenesdur/full/OJogBYM)
+
+![Emoji Maker](https://i.imgur.com/GgFOI0Q.gif)
+
+</details>
