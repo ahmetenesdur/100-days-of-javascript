@@ -188,3 +188,15 @@ Emoji Maker - [Demo](https://codepen.io/ahmetenesdur/full/OJogBYM)
 ![Emoji Maker](https://i.imgur.com/GgFOI0Q.gif)
 
 </details>
+
+<details>
+  <summary>Day 18: Draggable Element</summary>
+
+<br>
+
+Draggable Element - [Demo](https://codepen.io/ahmetenesdur/full/poOrwXO)
+
+![Draggable Element](https://i.imgur.com/i4TIozW.gif)
+![Draggable Element Mobile](https://i.imgur.com/CHH45aE.gif)
+
+</details>
