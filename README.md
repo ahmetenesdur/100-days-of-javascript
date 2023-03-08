@@ -211,3 +211,14 @@ Download Button with Timer - [Demo](https://codepen.io/ahmetenesdur/full/VwGMPaR
 ![Download Button with Timer](https://i.imgur.com/w3NNvkb.gif)
 
 </details>
+
+<details>
+  <summary>Day 20: Alarm Clock</summary>
+
+<br>
+
+Alarm Clock - [Demo](https://codepen.io/ahmetenesdur/full/ZEMXwdL)
+
+![Alarm Clock](https://i.imgur.com/52BtvUg.gif)
+
+</details>
