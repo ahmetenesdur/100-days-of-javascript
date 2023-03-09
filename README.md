@@ -222,3 +222,14 @@ Alarm Clock - [Demo](https://codepen.io/ahmetenesdur/full/ZEMXwdL)
 ![Alarm Clock](https://i.imgur.com/52BtvUg.gif)
 
 </details>
+
+<details>
+  <summary>Day 21: Roll The Dice</summary>
+
+<br>
+
+Roll The Dice - [Demo](https://codepen.io/ahmetenesdur/full/NWLwBmb)
+
+![Roll The Dice](https://i.imgur.com/TJX4B0o.gif)
+
+</details>
