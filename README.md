@@ -233,3 +233,14 @@ Roll The Dice - [Demo](https://codepen.io/ahmetenesdur/full/NWLwBmb)
 ![Roll The Dice](https://i.imgur.com/TJX4B0o.gif)
 
 </details>
+
+<details>
+  <summary>Day 22: Random Quote Generator</summary>
+
+<br>
+
+Random Quote Generator - [Demo](https://codepen.io/ahmetenesdur/full/BaOJZVa)
+
+![Random Quote Generator](https://i.imgur.com/nEZEXj2.gif)
+
+</details>
