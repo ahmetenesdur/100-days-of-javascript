@@ -244,3 +244,14 @@ Random Quote Generator - [Demo](https://codepen.io/ahmetenesdur/full/BaOJZVa)
 ![Random Quote Generator](https://i.imgur.com/nEZEXj2.gif)
 
 </details>
+
+<details>
+  <summary>Day 23: Countdown Timer</summary>
+
+<br>
+
+Countdown Timer - [Demo](https://codepen.io/ahmetenesdur/full/jOvZBXa)
+
+![Countdown Timer](https://i.imgur.com/htUkgei.gif)
+
+</details>
