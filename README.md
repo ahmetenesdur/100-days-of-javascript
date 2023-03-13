@@ -255,3 +255,14 @@ Countdown Timer - [Demo](https://codepen.io/ahmetenesdur/full/jOvZBXa)
 ![Countdown Timer](https://i.imgur.com/htUkgei.gif)
 
 </details>
+
+<details>
+  <summary>Day 24: Image Editor</summary>
+
+<br>
+
+Image Editor - [Demo](https://codepen.io/ahmetenesdur/full/RwYMwKM)
+
+![Image Editor](https://i.imgur.com/LVJUq5P.gif)
+
+</details>
