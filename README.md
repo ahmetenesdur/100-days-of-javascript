@@ -263,6 +263,17 @@ Countdown Timer - [Demo](https://codepen.io/ahmetenesdur/full/jOvZBXa)
 
 Image Editor - [Demo](https://codepen.io/ahmetenesdur/full/RwYMwKM)
 
-![Image Editor](https://i.imgur.com/LVJUq5P.gif)
+![Image Editor](https://i.imgur.com/SVQD5nt.gif)
+
+</details>
+
+<details>
+  <summary>Day 25: Predictive Text</summary>
+
+<br>
+
+Predictive Text - [Demo](https://codepen.io/ahmetenesdur/full/wvEmEmK)
+
+![Predictive Text](https://i.imgur.com/REMp632.gif)
 
 </details>
