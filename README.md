@@ -277,3 +277,14 @@ Predictive Text - [Demo](https://codepen.io/ahmetenesdur/full/wvEmEmK)
 ![Predictive Text](https://i.imgur.com/REMp632.gif)
 
 </details>
+
+<details>
+  <summary>Day 26: Image Comparison Slider</summary>
+
+<br>
+
+Image Comparison Slider - [Demo](https://codepen.io/ahmetenesdur/full/mdGLXLP)
+
+![Image Comparison Slider](https://i.imgur.com/aOMAMy4.gif)
+
+</details>
