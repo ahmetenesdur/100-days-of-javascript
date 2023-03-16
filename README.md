@@ -288,3 +288,14 @@ Image Comparison Slider - [Demo](https://codepen.io/ahmetenesdur/full/mdGLXLP)
 ![Image Comparison Slider](https://i.imgur.com/aOMAMy4.gif)
 
 </details>
+
+<details>
+  <summary>Day 27: Custom File Upload Button</summary>
+
+<br>
+
+Custom File Upload Button - [Demo](https://codepen.io/ahmetenesdur/full/JjaZGLM)
+
+![Custom File Upload Button](https://i.imgur.com/V9bkCDa.gif)
+
+</details>
