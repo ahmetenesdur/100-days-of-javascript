@@ -299,3 +299,14 @@ Custom File Upload Button - [Demo](https://codepen.io/ahmetenesdur/full/JjaZGLM)
 ![Custom File Upload Button](https://i.imgur.com/V9bkCDa.gif)
 
 </details>
+
+<details>
+  <summary>Day 28: QR Code Scanner</summary>
+
+<br>
+
+Day 28: QR Code Scanner - [Demo](https://codepen.io/ahmetenesdur/full/rNZKbqj)
+
+![Day 28: QR Code Scanner](https://i.imgur.com/Q1RLGVo.gif)
+
+</details>

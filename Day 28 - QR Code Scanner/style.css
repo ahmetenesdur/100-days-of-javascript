@@ -1,0 +1,177 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+::selection {
+  background: #fff;
+  color: #000;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: #1c1e26;
+}
+
+.wrapper {
+  height: 300px;
+  width: 420px;
+  transition: height 0.2s ease;
+}
+
+.wrapper.active {
+  height: 525px;
+  background: darkslateblue;
+  width: 420px;
+  border-radius: 10px;
+  padding: 30px;
+  transition: height 0.2s ease;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.wrapper form {
+  height: 260px;
+  width: 380px;
+  display: flex;
+  cursor: pointer;
+  user-select: none;
+  text-align: center;
+  border-radius: 10px;
+  background: #fff;
+  align-items: center;
+  justify-content: center;
+  transition: height 0.2s ease;
+}
+
+.wrapper form:hover {
+  scale: 1.1;
+  transition: scale 0.2s ease;
+}
+
+.wrapper.active form {
+  height: 225px;
+  width: 360px;
+  pointer-events: none;
+}
+
+form img {
+  display: none;
+  max-width: 148px;
+}
+
+.wrapper.active form img {
+  display: block;
+}
+
+.wrapper.active form .content {
+  display: none;
+}
+
+form .content i {
+  color: darkslateblue;
+  font-size: 55px;
+}
+
+form .content p {
+  color: darkslateblue;
+  margin-top: 15px;
+  font-size: 16px;
+}
+
+.wrapper .details {
+  opacity: 0;
+  margin-top: 25px;
+  pointer-events: none;
+}
+
+.wrapper.active .details {
+  opacity: 1;
+  pointer-events: auto;
+  transition: opacity 0.5s 0.05s ease;
+}
+
+.details textarea {
+  width: 100%;
+  height: 128px;
+  outline: none;
+  resize: none;
+  color: #fff;
+  font-size: 18px;
+  background: none;
+  border-radius: 10px;
+  padding: 10px 15px;
+  border: 1px solid #fff;
+}
+
+textarea::-webkit-scrollbar {
+  width: 0px;
+}
+
+textarea:hover::-webkit-scrollbar {
+  width: 5px;
+}
+
+textarea:hover::-webkit-scrollbar-track {
+  background: none;
+}
+
+textarea:hover::-webkit-scrollbar-thumb {
+  background: #fff;
+  border-radius: 10px;
+}
+
+.details .buttons {
+  display: flex;
+  margin-top: 20px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.buttons button {
+  height: 55px;
+  outline: none;
+  border: none;
+  font-weight: 500;
+  font-size: 16px;
+  cursor: pointer;
+  color: darkslateblue;
+  border-radius: 10px;
+  background: #fff;
+  transition: transform 0.3s ease;
+  width: calc(100% / 2 - 10px);
+}
+
+.buttons button:active {
+  transform: scale(0.95);
+}
+
+.buttons button:hover {
+  background: #f5f5f5;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 450px) {
+  .wrapper {
+    padding: 20px;
+    height: 260px;
+    width: 350px;
+  }
+  .wrapper.active {
+    height: 520px;
+  }
+  .wrapper form {
+    height: 200px;
+    width: 310px;
+  }
+  .wrapper.active form {
+    height: 200px;
+    width: 310px;
+  }
+}
