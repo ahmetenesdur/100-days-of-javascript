@@ -310,3 +310,15 @@ Day 28: QR Code Scanner - [Demo](https://codepen.io/ahmetenesdur/full/rNZKbqj)
 ![Day 28: QR Code Scanner](https://i.imgur.com/Q1RLGVo.gif)
 
 </details>
+
+<details>
+  <summary>Day 29: Sliding Image Puzzle</summary>
+
+<br>
+
+Sliding Image Puzzle - [Demo](https://codepen.io/ahmetenesdur/full/RwYYNXB)
+
+![Sliding Image Puzzle1](https://i.imgur.com/qhNRlpN.gif)
+![Sliding Image Puzzle2](https://i.imgur.com/5qXptBP.gif)
+
+</details>
