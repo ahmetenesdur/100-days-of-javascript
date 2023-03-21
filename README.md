@@ -322,3 +322,14 @@ Sliding Image Puzzle - [Demo](https://codepen.io/ahmetenesdur/full/RwYYNXB)
 ![Sliding Image Puzzle2](https://i.imgur.com/5qXptBP.gif)
 
 </details>
+
+<details>
+  <summary>Final Day 30: Notes App with Local Storage</summary>
+
+<br>
+
+Notes App - [Demo](https://codepen.io/ahmetenesdur/full/RwYexRo)
+
+![Notes App](https://i.imgur.com/l8K0igQ.gif)
+
+</details>
